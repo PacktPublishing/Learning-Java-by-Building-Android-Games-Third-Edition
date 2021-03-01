@@ -12,7 +12,7 @@
         <activity android:name=".BulletHellActivity"
 
             android:theme=
-                "@android:style/Theme.Holo.Light.NoActionBar.Fullscreen">
+                "@android:style/Theme.Holo.Light.NoActionBar.Fullscreen"
 
         >
             <intent-filter>
